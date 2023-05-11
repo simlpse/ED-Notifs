@@ -1,1 +1,6 @@
-{"devoirs":"0.1","notifs":"0.1"}
+{"devoirs":{
+  "Version": "0.1",
+  "URL": "https://www.icloud.com/shortcuts/bb91e12e07294d4989584f8af2bf7f0e",
+  "Notes": "Version Alpha initiale",
+  "Release": "9 avril 2023"
+},"notifs":"0.1"}
