@@ -5,8 +5,8 @@
   "Notes": "Correction d'un problème majeur entraîné par la modification de l'API Ecole Directe. ",
   "Release": "19 octobre 2023"},
   "minor":{
-    "Version": "0.5.4",
-  "URL": "https://www.icloud.com/shortcuts/242918f5315e4c978370d7bcad2afb9a",
+    "Version": ["0.5.4","0.5.5"],
+  "URL": "https://www.icloud.com/shortcuts/66a4388ac99743cbb34a5d329419c94e",
   "Notes": "Correction et ajout de fonctionalités mineures. ",
-  "Release": "8 mars 2024"}
+  "Release": "11 mars 2024"}
 }}
